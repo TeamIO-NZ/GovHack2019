@@ -38,3 +38,9 @@ This app encourages both locals and tourists to explore the area and experience 
 **Innovate New Zealand + Best Creative Use of Technology** - *DATA IMPLEMENTATION*
 
 Promoting local business (help them promote themselves)- sponsorship + promoted ads. We are using technology to help local businesses promote themselves to a vast array of new customers from both tourist and local populations that they normally wouldn't be able to reach through other means.
+
+## Music Used
+
+Anywhere (Music by Ikson): <https://www.soundcloud.com/ikson>
+
+Song Promoted By No Copyright Music Library: <https://youtu.be/bLjs_NPMOF8>

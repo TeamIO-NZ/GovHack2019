@@ -25,7 +25,7 @@ Originally we found articles of tourist deaths in New Zealand. Upon learning of 
 
 The source code for Localé is split into different repositories for the different aspects of the project.
 
-* [Django Backend (broken)](https://github.com/TeamIO-NZ/locale-backend/)
+* [Django Backend v1 (archived)](https://github.com/TeamIO-NZ/locale-backend/)
 * [Django Backend v2](https://github.com/TeamIO-NZ/locale-backend-v2/)
 * [Progressive Web App Frontend](https://github.com/TeamIO-NZ/locale-pwa/)
 * [Tools](https://github.com/TeamIO-NZ/local-tools)

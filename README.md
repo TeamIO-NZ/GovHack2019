@@ -18,7 +18,7 @@ Originally we found articles of tourist deaths in New Zealand. Upon learning of 
 * **Sam** - Product and Video
 * **Joe** - Developer
 * **Mark** - Developer
-* **Finn** - Design and Data
+* **Finn** - Design and Data Specialist
 * **Arran** - Data
 
 ## Repositories

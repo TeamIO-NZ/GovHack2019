@@ -4,6 +4,11 @@
 
 Localé is a tourism based application designed to better connect visitors to local businesses and events in a safe and stress free manner. Localé will also include local area safety and evacuation information to improve community safety. Data generated can be feed back to the council to aid in council and civil defense planning.
 
+## Data Story
+
+The problem we found was that visiting tourists and locals need an easy way to get a decent dose of culture and entertainment, while feeling safe and secure in an unfamiliar environment while exploring new areas. We decided to make an app that will help organize events and activities while also providing safety information for civil defense and natural disasters.
+Originally we found articles of tourist deaths in New Zealand. Upon learning of these tragedies we decided to find ways to mitigate these deaths while providing a service that will help people have a great experience in New Zealand towns while also supporting local businesses by encouraging people to visit the lesser known ones over big chains.
+
 ## Team
 
 * **James** - Team Lead and Developer

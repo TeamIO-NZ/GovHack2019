@@ -30,6 +30,14 @@ The source code for Localé is split into different repositories for the differe
 * [Progressive Web App Frontend](https://github.com/TeamIO-NZ/locale-pwa/)
 * [Tools](https://github.com/TeamIO-NZ/local-tools)
 
+## Datasets
+
+* [Waterways Map](https://hbrcopendata-hbrc.opendata.arcgis.com/datasets/34bc4f1a0e184556a7916a9020cc47a9_6) - This map shows river and ocean levels and water safety levels to show tourists where it is safe to swim based on ecoli levels.
+* [Walking and Biking trails](https://hbrcopendata-hbrc.opendata.arcgis.com/datasets/10c773dfc25b4911a457a662d2f17556_0?geometry=173.125%2C-40.165%2C181.486%2C-38.679) - We downloaded this map to help encourage people new to the region to visit our wonderful walking and biking trails to get the best experience of the region.
+* [Hawkes Bay Tsunami Evacuation Routes](https://hbrcopendata-hbrc.opendata.arcgis.com/datasets/4d295d2f775a4972a10ecb1dd09c3774_0/data?geometry=175.881%2C-39.733%2C177.971%2C-39.362) - We downloaded this map so that users that are new to the area have a quick and easy way to access this data in an emergency.
+* [Eventfinda RSS](https://www.eventfinda.co.nz/feed/events/hawkes-bay-gisborne/whatson/upcoming.rss) - We scraped this rss feed to build a data set of local events so we could show off the event find feature in our application.
+* [International travel and migration data](https://www.stats.govt.nz/information-releases/international-travel-and-migration-september-2018) - We used this data as a research point to look at potential app growth curves over time.
+
 ## Challenges
 
 **Best use of data to assist in a Civil Emergency** - *GENERATED DATA*

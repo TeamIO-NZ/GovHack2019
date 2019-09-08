@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/TeamIO-NZ/GovHack2019/master/docs/logo.svg)
+![Logo](https://raw.githubusercontent.com/TeamIO-NZ/GovHack2019/master/docs/locale.png)
 
 # GovHack 2019 - Localé
 
